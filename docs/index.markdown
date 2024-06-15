@@ -12,6 +12,10 @@ The following sections will describe the different tests.
 
 > To avoid issues between the tests, it is a good approach to start a new console for each test.
 
+## Repo
+
+You can find the repo with all test at [pyimport-explained](https://github.com/MaKaNu/pyimport-explained)
+
 ## Tests
 
 - [Test 01](https://makanu.github.io/pyimport-explained/test01)
