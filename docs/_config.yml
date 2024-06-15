@@ -29,6 +29,8 @@ url: "makanu.github.io" # the base hostname & protocol for your site, e.g. http:
 github_username:  MaKaNu
 
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 
 # Build settings
 theme: minima
