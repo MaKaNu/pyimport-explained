@@ -4,7 +4,6 @@
 
 layout: home
 ---
-# Explain Pyimport
 
 This Page tries to explain and show how python packaging and imports are working.
 
