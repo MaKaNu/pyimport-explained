@@ -15,17 +15,21 @@ approach, but might lead to other issues, which are better shown by [Test 02](#t
 
 To run the test manual just run
 
-<details><summary markdown="span">Let's see some code!</summary>
-```python
-print('Hello World!')
+<details><summary markdown="span">**bash**</summary>
+```bash
+cd test_01
+python run.py | Select-String $USER
 ```
 </details>
 <br/>
 
+<details><summary markdown="span">**powershell**</summary>
 ```bash
 cd test_01
-python run.py | grep $USER
+python run.py | Select-String $env:username
 ```
+</details>
+<br/>
 
 ### Excepted Result
 
