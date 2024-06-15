@@ -21,7 +21,6 @@ cd test_01
 python run.py | Select-String $USER
 ```
 </details>
-<br/>
 
 <details><summary markdown="span">**powershell**</summary>
 ```bash
@@ -29,7 +28,6 @@ cd test_01
 python run.py | Select-String $env:username
 ```
 </details>
-<br/>
 
 ### Excepted Result
 
