@@ -33,7 +33,7 @@ kramdown:
   parse_block_html: true
 
 # Build settings
-theme: tactile
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
