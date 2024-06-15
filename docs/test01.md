@@ -4,8 +4,6 @@ title: "Test 01"
 permalink: /test01
 ---
 
-# Test 01
-
 Very basic setup. We have one package `my_package` and inside one module
 `my_module.py`. The module includes one function main, which lists all available
 modules at runtime, completely ripped of <https://stackoverflow.com/a/42673938/10985257>
